@@ -1,0 +1,3 @@
+In Programming fundamentals you have been coding in Python using procedural oriented programming, and are familiar with its syntax. You have written small programs using functions. What if you have to write a real world complex application like an online shopping app? How would you go about doing it and where will you start?
+
+In this course, you are going to learn how to build complex real world applications using a technique known as object oriented programming. We will be using an online shopping scenario to understand OOP concepts
