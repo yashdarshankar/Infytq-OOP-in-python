@@ -1,0 +1,36 @@
+#lex_auth_012736349701922816604
+#Start writing your code here
+def check_type(type):
+    vehicle_type = ["Two wheeler","Four wheeler"]
+    if type not in vehicle_type:
+        return 0
+    else:
+        return 1
+class vehicle
+    def _init_(self):
+        self.__vehicle_id = None
+        self.__vehicle_cost = None
+        self.__vehicle_type = None
+        self.__vehicle_premium_Amount = None
+    def set_vehicle_id(self,vehicle_id):
+        self.__vehicle_id = vehicle_id
+    def get_vehicle_id(self,vehicle_id):
+        return self.__vehicle_id
+    def set_vehicle_cost(self,vehicle_cost):
+        self.__vehicle_cost = vehicle_cost
+    def get_vehicle_cost(self,vehicle_cost):
+        return self.__vehicle_cost
+    def set_vehicle_type(self,vehicle_type):
+        self.__vehicle_type = vehicle_type
+    def get_vehicle_type(self,vehicle_type):
+        return self.__vehicle_type
+    def set_vehicle_premium_Account(self,vehicle_premium_Account):
+        self.__vehicle_premium_Account = vehicle_premium_Account
+    def get_vehicle_premium_Account(self,vehicle_premium_Account):
+        return self.__vehicle_premium_Account
+    def calculate_premium(self):
+        if self.__vehicle_type = "Two wheeler":
+            self.vehicle_premium_Account = self.vehicle_cost*(2/100)
+        elif self.__vehicle_type = "Four wheeler":
+            self.vehicle_premium_Account = self.vehicle_cost*(6/100)
+    def display_vehicle
